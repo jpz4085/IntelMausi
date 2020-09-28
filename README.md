@@ -10,8 +10,6 @@ https://github.com/fischerscode/IntelMausi-WOL (Enabled by default.)
 
 ---
 
-[![Build Status](https://travis-ci.com/acidanthera/IntelMausi.svg?branch=master)](https://travis-ci.com/acidanthera/IntelMausi) [![Scan Status](https://scan.coverity.com/projects/18406/badge.svg?flat=1)](https://scan.coverity.com/projects/18406)
-
 Intel onboard LAN driver for macOS. Courtesy of [Laura Müller](https://github.com/Mieze),
 refer to [original repository](https://github.com/Mieze/IntelMausiEthernet) for more details.
 This copy includes alterations that are of concern in [Acidanthera](https://github.com/acidanthera)
