@@ -1,5 +1,15 @@
 # IntelMausi
 
+Fork of IntelMausi extension from Acidanthera with support for Wake on LAN from shutdown. WOL in S3/S5 is controlled by the macOS "Wake for network access" or "womp" system setting. This feature can be disabled by adding a key "disable-wol-from-shutdown" to the Clover device properties under the network controller which will restore the stock functionality if desired.
+
+Links:
+
+https://github.com/acidanthera/IntelMausi
+
+https://github.com/fischerscode/IntelMausi-WOL (Enabled by default.)
+
+---
+
 [![Build Status](https://travis-ci.com/acidanthera/IntelMausi.svg?branch=master)](https://travis-ci.com/acidanthera/IntelMausi) [![Scan Status](https://scan.coverity.com/projects/18406/badge.svg?flat=1)](https://scan.coverity.com/projects/18406)
 
 Intel onboard LAN driver for macOS. Courtesy of [Laura Müller](https://github.com/Mieze),
